@@ -1,5 +1,5 @@
 """
-FastAPI application for CR310 datalogger data reception.
+FastAPI application for CR310 datalogger data reception
 """
 from fastapi import FastAPI, HTTPException, status, Request, Query
 from fastapi.responses import JSONResponse
